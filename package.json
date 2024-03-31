@@ -1,0 +1,33 @@
+{
+  "name": "devcodewhiz",
+  "version": "1.0.2",
+  "description": "devcodewhiz",
+  "type": "module",
+  "main": "devcodewhiz.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/omearaf1985/devcodewhiz"
+  },
+  "website": "https://github.com/omearaf1985/devcodewhiz.git",
+  "keywords": [
+    "devcodewhiz"
+  ],
+  "author": "omearaf1985",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/omearaf1985/devcodewhiz/issues"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "homepage": "https://github.com/omearaf1985/devcodewhiz#readme",
+  "dependencies": {
+    "codecraftguru": "1.0.2",
+    "programcodecraftsman": "1.0.2",
+    "codescriptcraftpro": "1.0.2"
+  }
+}
